@@ -1,0 +1,55 @@
+# ======================
+# Android / Gradle
+# ======================
+.gradle/
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ======================
+# Android Studio / IntelliJ
+# ======================
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# ======================
+# Logs & temp files
+# ======================
+*.log
+*.tmp
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Keystore (VERY IMPORTANT)
+# ======================
+*.jks
+*.keystore
+
+# ======================
+# Firebase / Google services
+# ======================
+google-services.json
+firebase.json
+
+# ======================
+# Secrets / env
+# ======================
+*.properties
+!.gradle/wrapper/gradle-wrapper.properties
+.env
+.env.*
+
+# ======================
+# Kotlin / Compose
+# ======================
+.kotlin/

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RedRisingCalculator</string>
+    <string name="red_rising">Red Rising</string>
+    <string name="calculator">Calculator</string>
+    <string name="num_players">Number of players</string>
+    <string name="create_new_game">Create a new game</string>
+    <string name="player_scores">Player Scores</string>
+    <string name="player_settings">Player Settings</string>
+    <string name="points">Pts</string>
+    <string name="endgame_abilities">&quot;At End Of Game&quot; Abilities</string>
+    <string name="character_cards">Cards Core Value &amp; End-Game Bonuses</string>
+    <string name="fleet_track">Fleet Track</string>
+    <string name="helium">Helium</string>
+    <string name="sovereignty">Sovereign Token</string>
+    <string name="influence">Amount of Influence Cubes</string>
+    <string name="excess_cards">Excess Cards</string>
+    <string name="player_name">Player Name</string>
+</resources>
